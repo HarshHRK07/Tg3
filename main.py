@@ -5,7 +5,7 @@ from keep_alive import keep_alive
 keep_alive()
 
 # Telegram bot token
-TOKEN = "6864082917:AAFIDWGZU9NB9FxXb4equrYwmFFXiDwyId0"
+TOKEN = "6406810707:AAHpYjjcqkiMZv0EFbQ5-seMgWH4EoWzfN8"
 
 # API endpoint
 API_ENDPOINT = "https://green-devil.tech/openai/gpt?prompt="
